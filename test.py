@@ -15,7 +15,7 @@ st.title("ショートアプリ")
 st.code(code, language='python')
 
 #画像
-image = Image.open("IMG_0560.PNG")
+image = Image.open("IMG_0946_Original.JPG")
 st.image(image, width = 200)
 
 #動画
